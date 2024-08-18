@@ -93,4 +93,7 @@ DBの使用技術→My SQLを使用予定。こちらも再度、調べた結果
 Figma：https://www.figma.com/board/dS0Dob3SDjHBjIqyMIlxqO/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=0-1&t=jKR4DxTtnJE3017y-0
 
 
-ER図：https://app.diagrams.net/#G10eUmdkZid4p1I0Ua2LYCXPPIwCb_zsYZ#%7B%22pageId%22%3A%22pI30-DUOuWob3_31oMgv%22%7D
+### ER図
+：[![Image from Gyazo](https://i.gyazo.com/7d578e7447399a679156d9cb5c114620.png)](https://gyazo.com/7d578e7447399a679156d9cb5c114620)
+
+
